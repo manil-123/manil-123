@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Firebase.**
 
-- 👯 I’m looking to collaborate on **any flutter projects.**
+- 👯 I’m looking to collaborate on **any new project ideas.**
 
 - 💬 Ask me about **programming problems.**
 
