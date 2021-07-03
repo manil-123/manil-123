@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Flutter projects from Udemy lessons.**
 
-- 🌱 I’m currently learning **Firebase.**
+- 🌱 I’m currently learning **Firebase and Python.**
 
 - 👯 I’m looking to collaborate on **any new project ideas.**
 
