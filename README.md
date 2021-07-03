@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/manil-pun-93b441149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manilpun" height="30" width="40" /></a>
 <a href="https://fb.com/manil pun magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manil pun magar" height="30" width="40" /></a>
 <a href="https://instagram.com/manilpun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manilpun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manilpun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manilpun" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/punmanil3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manilpun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
