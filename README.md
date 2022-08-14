@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manil-123" alt="manil-123" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter projects from Udemy lessons.**
+- 🔭 I’m currently working at **H.T Solutions.**
 
-- 🌱 I’m currently learning **Firebase and Python.**
+- 🌱 I’m currently learning **GraphQL with Flutter.**
 
 - 👯 I’m looking to collaborate on **any new project ideas.**
 
