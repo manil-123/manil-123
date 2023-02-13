@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **H.T Solutions.**
 
-- 🌱 I’m currently learning **GraphQL with Flutter.**
+- 🌱 I’m currently learning **Test Driven Development and Clean Code with Flutter.**
 
 - 👯 I’m looking to collaborate on **any new project ideas.**
 
