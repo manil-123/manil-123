@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manil-123" alt="manil-123" /></a> </p>
 
-<ul>
-    <li> 🔭 I’m currently working at **H.T Solutions.**</li>
 
-    <li> 🌱 I’m currently learning **Domain Driven Design and Clean Code with Flutter.**</li>
+    - 🔭 I’m currently working at **H.T Solutions.**
+
+    - 🌱 I’m currently learning **Domain Driven Design and Clean Code with Flutter.**
     
-    <li> 👯 I’m lookings to collaborate on **any new project ideas.**</li>
+    - 👯 I’m lookings to collaborate on **any new project ideas.**
     
-    <li> 💬 Ask me about **programming problems.**</li>
+    - 💬 Ask me about **programming problems.**
     
-   <li>  📫 How to reach me **punmanil3@gmail.com**</li>
+    -  📫 How to reach me **punmanil3@gmail.com**
     
-    <li> ⚡ Fun fact **I think I'm funny but I'm not.**</li>
-</ul>
+    - ⚡ Fun fact **I think I'm funny but I'm not.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
