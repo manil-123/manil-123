@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manil-123" alt="manil-123" /></a> </p>
 
 
-    - 🔭 I’m currently working at **H.T Solutions.**
+    - 🔭 I’m currently working at **N-Cash Digital Wallet**
 
-    - 🌱 I’m currently learning **Domain Driven Design and Clean Code with Flutter.**
+    - 🌱 I’m currently working on **Leetcode problems**
     
     - 👯 I’m lookings to collaborate on **any new project ideas.**
     
