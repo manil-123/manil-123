@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manil-123" alt="manil-123" /></a> </p>
 
 
-    - 🔭 I’m currently working at **N-Cash Digital Wallet**
+    - 🔭 I’m currently working at **EBPeals**
 
     - 🌱 I’m currently working on **Leetcode problems**
     
